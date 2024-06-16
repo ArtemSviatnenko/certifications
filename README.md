@@ -29,7 +29,14 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Credential ID*: [Insert ID if applicable]
 
 ### Udemy Certificates
-1. **Agile Testing**
+
+1. **Test Automation**
+   - *Course Name*: [Course Name]
+   - *Issuing Platform*: Udemy
+   - *Date Earned*: [Month Year]
+   - *Certificate Link*: [Link to Certificate]
+
+3. **Development and virtualization**
    - *Course Name*: [Course Name]
    - *Issuing Platform*: Udemy
    - *Date Earned*: [Month Year]
@@ -40,6 +47,19 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Issuing Platform*: Udemy
    - *Date Earned*: [Month Year]
    - *Certificate Link*: [Link to Certificate]
+
+3. **Monitoring and observability**
+   - *Course Name*: [Course Name]
+   - *Issuing Platform*: Udemy
+   - *Date Earned*: [Month Year]
+   - *Certificate Link*: [Link to Certificate]
+
+4. **CI/CD**
+   - *Course Name*: [Course Name]
+   - *Issuing Platform*: Udemy
+   - *Date Earned*: [Month Year]
+   - *Certificate Link*: [Link to Certificate]
+   
 
 ---
 
