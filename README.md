@@ -11,8 +11,7 @@ As a Full Stack Software QA Engineer bring extensive expertise in ensuring fast 
  My proficiency extends to defining robust observability models for effective monitoring solutions. 
  I am well-versed in Agile methodologies, facilitating a comprehensive approach to testing that enhances efficiency and reliability across projects.
  
- As Full Stack Software QA Engineer I deeply convinced best results in testing can only be achieved only ensuring holistic testing, so constantly targeting development of needed skills.
-
+As a Full Stack Software QA Engineer, I firmly believe that the best testing results can only be achieved through holistic testing, so I am constantly focused on developing the necessary skills.
 
 ---
 
