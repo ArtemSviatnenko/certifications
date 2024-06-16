@@ -28,7 +28,7 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Date Earned*: [Month Year]
    - *Credential ID*: [Insert ID if applicable]
 
-### Udemy Certificates
+### Testing related:
 
 1. **Test Automation**
    - *Course Name*: [Course Name]
