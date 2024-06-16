@@ -1,8 +1,17 @@
 # Certifications
 
 ## Summary
-I am a Full Stack Software Test Engineer with expertise ranging from test analysis to test automation, performance testing, and monitoring and observability. I hold two ISTQB certifications and have completed various Udemy courses, ensuring a holistic approach to testing within agile contexts.
+I am a Full Stack Software QA Engineer with expertise ranging from test analysis to test automation, performance testing, and monitoring and observability. I hold two ISTQB certifications and have completed various Udemy courses, ensuring a holistic approach to testing within agile contexts.
 
+As Full Stack Software QA Engineer specializing in test automation, performance testing (K6), and optimizing CI/CD pipelines to inject testing phases effectively. With a focus on defining observability models, I excel in ensuring robust monitoring solutions. I am proficient in all necessary shift-left activities, providing comprehensive testing in agile contexts.
+
+specializing in Test Automation and Performance Testing...
+
+As a Full Stack Software QA Engineer bring extensive expertise in ensuring fast and reliable software delivery. In agile context targeting thorough test automation and performance testing, I optimize CI/CD pipelines to seamlessly integrate testing phases. 
+ My proficiency extends to defining robust observability models for effective monitoring solutions. 
+ I am well-versed in Agile methodologies, facilitating a comprehensive approach to testing that enhances efficiency and reliability across projects.
+
+As Full Stack Software QA Engineer I deeply convinced best results in testing can only be achieved only ensuring holistic testing, so constantly targeting development of needed skills.
 ---
 
 ## Certifications
