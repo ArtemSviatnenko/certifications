@@ -54,20 +54,11 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Date Earned*: [Month Year]
    - *Certificate Link*: [Link to Certificate]
 
-4. **CI/CD**
+4. **CI/CD and VCS**
    - *Course Name*: GitLab CI/CD: Pipelines, CI/CD and DevOps
    - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-52197553-5c83-490b-b4e5-0233b410e770/)]
+  
+   - *Course Name*: The Git & Github Bootcamp
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-375570de-dc32-4321-872a-f9ab5b8b999a/)]
    
 
----
-
-## Additional Training
-### Monitoring and Observability
-- *Course Name*: [Course Name]
-- *Issuing Platform*: [Platform Name]
-- *Date Completed*: [Month Year]
-- *Certificate Link*: [Link to Certificate]
-
----
-
-Feel free to contact me at [your-email@example.com](mailto:your-email@example.com) for more details or inquiries.
