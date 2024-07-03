@@ -55,10 +55,8 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Certificate Link*: [Link to Certificate]
 
 4. **CI/CD**
-   - *Course Name*: [Course Name]
-   - *Issuing Platform*: Udemy
-   - *Date Earned*: [Month Year]
-   - *Certificate Link*: [Link to Certificate]
+   - *Course Name*: GitLab CI/CD: Pipelines, CI/CD and DevOps
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-52197553-5c83-490b-b4e5-0233b410e770/)]
    
 
 ---
