@@ -23,38 +23,34 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Date Earned*: [Month Year]
    - *Credential ID*: [Insert ID if applicable]
 
-2. **ISTQB Advanced Level - Test Automation Engineer**
+2. **ISTQB - Agile Tester**
    - *Issuing Organization*: International Software Testing Qualifications Board (ISTQB)
-   - *Date Earned*: [Month Year]
    - *Credential ID*: [Insert ID if applicable]
 
-### Testing related:
+### Holistic testind mandatory expertises:
 
 1. **Test Automation**
-   - *Course Name*: [Course Name]
-   - *Issuing Platform*: Udemy
-   - *Date Earned*: [Month Year]
+   - *Course Name*: 
    - *Certificate Link*: [Link to Certificate]
 
-3. **Development and virtualization**
-   - *Course Name*: [Course Name]
-   - *Issuing Platform*: Udemy
-   - *Date Earned*: [Month Year]
-   - *Certificate Link*: [Link to Certificate]
+2. **Development and virtualization**
+   - *Course Name*: Practical course: JavaScript Promises and async / await
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-6c4496a2-fcf7-4cdc-b787-e08687f43423/)]
+  
+   - *Course Name*: Mastering JavaScript Arrays
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-88d1a1e1-2bce-4833-abe6-0279f3c3ff11/)]
+  
+   - - *Course Name*: Practical course: Mastering Regular Expressions in JavaScript
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-5f47c03e-e157-4360-bf4b-2efba98860f3/)]
 
-2. **Performance Testing Using JMeter**
-   - *Course Name*: [Course Name]
-   - *Issuing Platform*: Udemy
-   - *Date Earned*: [Month Year]
-   - *Certificate Link*: [Link to Certificate]
+4. **Monitoring and observability**
+   - *Course Name*: Observability with Grafana, Prometheus,Loki, Alloy and Tempo
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-51418f68-b546-4f55-a048-6c2d2c27a299/)]
+  
+   - *Course Name*: Grafana
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-0cb315aa-22c5-4bd5-9914-94c0a994d05f/)]
 
-3. **Monitoring and observability**
-   - *Course Name*: [Course Name]
-   - *Issuing Platform*: Udemy
-   - *Date Earned*: [Month Year]
-   - *Certificate Link*: [Link to Certificate]
-
-4. **CI/CD and VCS**
+5. **CI/CD and VCS**
    - *Course Name*: GitLab CI/CD: Pipelines, CI/CD and DevOps
    - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-52197553-5c83-490b-b4e5-0233b410e770/)]
   
