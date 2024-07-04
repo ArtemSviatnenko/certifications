@@ -2,7 +2,7 @@
 
 ## Summary
 
-As a Full Stack(General) Software QA Engineer, my goal is to deliver early, shifted-left feedback on quality to ensure fast and confident releases in context of agile development. I am committed to continuously enhancing my knowledge of modern development processes, understanding my team's needs, and applying testing activities in the most efficient ways, promoting early analyzing of requirments, mitigating regression risks with test automation and thorough monitoring with clearly defined observability models in production.
+As a Full Stack Software QA Engineer, my goal is to deliver early, shifted-left feedback on quality to ensure frequent and confident releases. I am committed to continuously enhancing my knowledge of modern development processes, understanding my team's needs, and applying testing activities in the context of agile development in the most efficient ways. This includes promoting early analysis of requirements, mitigating regression risks with test automation, and implementing thorough monitoring with clearly defined observability models in production.
 
 To track my progress and completed milestones, I have compiled a list of key knowledge areas I have explored and the certifications I have acquired.
 
