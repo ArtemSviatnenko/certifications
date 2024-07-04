@@ -1,3 +1,9 @@
+
+<details>
+  <summary><i>Wow, so fancy</i></summary>
+  <b>WOW, SO BOLD</b>
+</details>
+
 <details>
  
 ## Summary
