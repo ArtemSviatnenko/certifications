@@ -20,18 +20,20 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
 ### ISTQB Certifications
 1. **ISTQB Foundation Level**
    - *Issuing Organization*: International Software Testing Qualifications Board (ISTQB)
-   - *Date Earned*: [Month Year]
-   - *Credential ID*: [Insert ID if applicable]
+    - *Credential ID*: [[Profile](https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde)]
 
 2. **ISTQB - Agile Tester**
    - *Issuing Organization*: International Software Testing Qualifications Board (ISTQB)
-   - *Credential ID*: [Insert ID if applicable]
+   - *Credential ID*: [[Profile](https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde)]
 
-### Holistic testind mandatory expertises:
+### Holistic testind expertises:
 
 1. **Test Automation**
-   - *Course Name*: 
-   - *Certificate Link*: [Link to Certificate]
+   - *Course Name*: Automated Web Testing with JavaScript and Playwright 
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-d3541f56-456d-44da-9139-83181b9375f3/)]
+  
+   - *Course Name*: Mastering Selectors/ Locators for Automation Testing!
+   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-df4d7b6c-5ee3-4030-9dcf-ec336365fefb/)]
 
 2. **Development and virtualization**
    - *Course Name*: Practical course: JavaScript Promises and async / await
@@ -40,7 +42,7 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Course Name*: Mastering JavaScript Arrays
    - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-88d1a1e1-2bce-4833-abe6-0279f3c3ff11/)]
   
-   - - *Course Name*: Practical course: Mastering Regular Expressions in JavaScript
+   - *Course Name*: Practical course: Mastering Regular Expressions in JavaScript
    - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-5f47c03e-e157-4360-bf4b-2efba98860f3/)]
 
 4. **Monitoring and observability**
