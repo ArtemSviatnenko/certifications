@@ -23,34 +23,20 @@ To track my progress and completed milestones, I have compiled a list of key kno
 ### Holistic testing encompassed expertises:
 
 1. **Test Automation**
-   - *Course Name*: Automated Web Testing with JavaScript and Playwright 
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-d3541f56-456d-44da-9139-83181b9375f3/)]
-  
-   - *Course Name*: Mastering Selectors/ Locators for Automation Testing!
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-df4d7b6c-5ee3-4030-9dcf-ec336365fefb/)]
+   - Automated Web Testing with JavaScript and Playwright  [[Link to Certificate](https://www.udemy.com/certificate/UC-d3541f56-456d-44da-9139-83181b9375f3/)]
+   - Mastering Selectors/ Locators for Automation Testing!  [[Link to Certificate](https://www.udemy.com/certificate/UC-df4d7b6c-5ee3-4030-9dcf-ec336365fefb/)]
 
 2. **Development and virtualization**
-   - *Course Name*: Practical course: JavaScript Promises and async / await
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-6c4496a2-fcf7-4cdc-b787-e08687f43423/)]
-  
-   - *Course Name*: Mastering JavaScript Arrays
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-88d1a1e1-2bce-4833-abe6-0279f3c3ff11/)]
-  
-   - *Course Name*: Practical course: Mastering Regular Expressions in JavaScript
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-5f47c03e-e157-4360-bf4b-2efba98860f3/)]
+   - JavaScript Promises and async / await [[Link to Certificate](https://www.udemy.com/certificate/UC-6c4496a2-fcf7-4cdc-b787-e08687f43423/)]
+   - Mastering JavaScript Arrays  [[Link to Certificate](https://www.udemy.com/certificate/UC-88d1a1e1-2bce-4833-abe6-0279f3c3ff11/)]
+   - Practical course: Mastering Regular Expressions in JavaScript [[Link to Certificate](https://www.udemy.com/certificate/UC-5f47c03e-e157-4360-bf4b-2efba98860f3/)]
 
-4. **Monitoring and observability**
-   - *Course Name*: Observability with Grafana, Prometheus,Loki, Alloy and Tempo
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-51418f68-b546-4f55-a048-6c2d2c27a299/)]
-  
-   - *Course Name*: Grafana
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-0cb315aa-22c5-4bd5-9914-94c0a994d05f/)]
+3. **Monitoring and observability**
+   - Observability with Grafana, Prometheus,Loki, Alloy and Tempo [[Link to Certificate](https://www.udemy.com/certificate/UC-51418f68-b546-4f55-a048-6c2d2c27a299/)]
+   - Grafana [[Link to Certificate](https://www.udemy.com/certificate/UC-0cb315aa-22c5-4bd5-9914-94c0a994d05f/)]
 
-5. **CI/CD and VCS**
-   - *Course Name*: GitLab CI/CD: Pipelines, CI/CD and DevOps
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-52197553-5c83-490b-b4e5-0233b410e770/)]
-  
-   - *Course Name*: The Git & Github Bootcamp
-   - *Certificate Link*: [[Link to Certificate](https://www.udemy.com/certificate/UC-375570de-dc32-4321-872a-f9ab5b8b999a/)]
-   
+4. **CI/CD and VCS**
+   - GitLab CI/CD: Pipelines, CI/CD and DevOps [[Link to Certificate](https://www.udemy.com/certificate/UC-52197553-5c83-490b-b4e5-0233b410e770/)]
+   - The Git & Github Bootcamp [[Link to Certificate](https://www.udemy.com/certificate/UC-375570de-dc32-4321-872a-f9ab5b8b999a/)]
+
 
