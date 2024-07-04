@@ -7,7 +7,7 @@ As a Full Stack Software QA Engineer, my goal is to deliver early, shifted-left 
 
 To track my progress and completed milestones, I have compiled a list of key knowledge areas I have explored and the certifications I have acquired.
 
----
+
 
 ## Certifications
 
