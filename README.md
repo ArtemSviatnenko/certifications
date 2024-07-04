@@ -1,17 +1,10 @@
 # Certifications
 
 ## Summary
-I am a Full Stack Software QA Engineer with expertise ranging from test analysis to test automation, performance testing, and monitoring and observability. I hold two ISTQB certifications and have completed various Udemy courses, ensuring a holistic approach to testing within agile contexts.
 
-As Full Stack Software QA Engineer specializing in test automation, performance testing (K6), and optimizing CI/CD pipelines to inject testing phases effectively. With a focus on defining observability models, I excel in ensuring robust monitoring solutions. I am proficient in all necessary shift-left activities, providing comprehensive testing in agile contexts.
+As a Full Stack(General) Software QA Engineer, my goal is to deliver early, shifted-left feedback on quality to ensure fast and confident releases in context of agile development. I am committed to continuously enhancing my knowledge of modern development processes, understanding my team's needs, and applying testing activities in the most efficient ways, promoting early analyzing of requirments, mitigating regression risks with test automation and thorough monitoring with clearly defined observability models in production.
 
-specializing in Test Automation and Performance Testing...
-
-As a Full Stack Software QA Engineer bring extensive expertise in ensuring fast and reliable software delivery. In agile context targeting thorough test automation and performance testing, I optimize CI/CD pipelines to seamlessly integrate testing phases. 
- My proficiency extends to defining robust observability models for effective monitoring solutions. 
- I am well-versed in Agile methodologies, facilitating a comprehensive approach to testing that enhances efficiency and reliability across projects.
- 
-As a Full Stack Software QA Engineer, I firmly believe that the best testing results can only be achieved through holistic testing, so I am constantly focused on developing the necessary skills.
+To track my progress and completed milestones, I have compiled a list of key knowledge areas I have explored and the certifications I have acquired.
 
 ---
 
@@ -26,7 +19,7 @@ As a Full Stack Software QA Engineer, I firmly believe that the best testing res
    - *Issuing Organization*: International Software Testing Qualifications Board (ISTQB)
    - *Credential ID*: [[Profile](https://atsqa.org/certified-testers/profile/d82f4603cc2d4ee89da13b0202c00fde)]
 
-### Holistic testind expertises:
+### Holistic testing encompassed expertises:
 
 1. **Test Automation**
    - *Course Name*: Automated Web Testing with JavaScript and Playwright 
